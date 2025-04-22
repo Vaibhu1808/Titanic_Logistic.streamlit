@@ -3,8 +3,5 @@ scikit-learn
 joblib
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 seaborn
-sklearn.linear_model
-LogisticRegression
-sklearn.metrics
