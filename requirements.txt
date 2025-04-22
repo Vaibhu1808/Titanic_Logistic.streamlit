@@ -2,3 +2,9 @@ streamlit
 scikit-learn
 joblib
 numpy
+pandas
+matplotlib.pyplot
+seaborn
+sklearn.linear_model
+LogisticRegression
+sklearn.metrics
